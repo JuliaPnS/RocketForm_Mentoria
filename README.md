@@ -6,4 +6,4 @@ Formulário para avalição de uma Mentoria que o aluno participou
 - HTML
 - CSS
 
-![image](https://github.com/JuliaPnS/stage3-form/assets/66971019/47d3f75f-9963-44f3-a0df-7701ca205db7)
+![image](https://github.com/JuliaPnS/RocketForm_Mentoria/assets/66971019/33d1b22c-d93c-43d2-9383-e6d2b2155fc2)
